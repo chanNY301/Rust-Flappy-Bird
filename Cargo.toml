@@ -5,4 +5,4 @@ edition = "2024"
 
 
 [dependencies]
-bracket-lib = "0.8.7"
+bracket-lib = "0.8"
